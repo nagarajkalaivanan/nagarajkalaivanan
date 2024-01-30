@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm nagarajkalaivanan</h1>
+<h1 align="center">Hi 👋, I'm Nagaraj K</h1>
 <h3 align="center">Software Engineer at QubeRoot Analytics LLP</h3>
 
 - 👨‍💻 All of my projects are available at [https://nagarajkalaivanan.wixsite.com/profile](https://nagarajkalaivanan.wixsite.com/profile)
